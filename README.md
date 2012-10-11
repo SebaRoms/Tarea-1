@@ -19,6 +19,6 @@ En dota, cuando un jugador se desconectaba (por cualquier motivo), el equipo que
 
 En resumen, LoL llega a ser una mejora de Dota, pero que tiene una vision diferente, ya que a futuro se ven muchas más modalidades de juegos, y esto es posible ya que no se encuentra limitado a ser un "modo de juego", por lo que podemos concluir que:
 
-+Dota es una gran juego y padre de muchos, pero está limitado por ser un "modo de juego" de warcraft III.
-+League of Legends es uno de los muchos juegos que salieron tipo "Dota".
-+League of Legends Tiene más futuro ya que a futuro se ve más creciemiento.
+* Dota es una gran juego y padre de muchos, pero está limitado por ser un "modo de juego" de warcraft III.
+* League of Legends es uno de los muchos juegos que salieron tipo "Dota".
+* League of Legends Tiene más futuro ya que a futuro se ve más creciemiento.
