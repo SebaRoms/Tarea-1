@@ -3,7 +3,7 @@
 ##Tema: **Juego League of Legends**
 
 ###**Reseña**: 
-*Muchos hemos escuchado del modo de juego para warcraft III "Dota", el cual ha aún tiene una muy buena fama entre los gamers, cuando "Dota" se popularizó, fue necesario evolucionar el juego a otra plataforma, ya que el ser un modo de juego de warcraft III no oficial siempre fue un problema. Es por esto que los creadores de Dota al separarse, fueron creando muchos juegos tipo "Dota", uno de los más conocidos y populares es League of Legends (LoL). El juego incluye muchas mejoras con respecto a Dota, pero también deja intactas muchas de las cosas buenas de este.*
+*Muchos hemos escuchado del modo de juego para warcraft III "Dota", el cual ha aún tiene una muy buena fama entre los gamers, cuando "Dota" se popularizó, fue necesario evolucionar el juego a otra plataforma, ya que el ser un modo de juego de warcraft III no oficial siempre fue un problema. Es por esto que los creadores de Dota al separarse, fueron creando muchos juegos tipo "Dota", uno de los más conocidos y populares es League of Legends (LoL). El juego incluye muchas mejoras con respecto a Dota, pero también deja intactas muchas de las cosas buenas de este:*
 
 1. **Jugabilidad**: 
 En este aspecto es muy superior a dota, ya que dota está limitado a la jugabilidad de warcraft III, un gran ejemplo es que no tienes que "seleccionar" tu personaje lo cual era muy molesto en dota. otro gran ejemplo sería la selección de habilidades, en dota cada habilidad tenia un atajo en el teclado que era su inicial. en lol esto se mejora pudiendo el usuario elegir los atajos, que por defecto vienen configuradas (Q,W,E,R). 
@@ -22,3 +22,5 @@ En resumen, LoL llega a ser una mejora de Dota, pero que tiene una vision difere
 * Dota es una gran juego y padre de muchos, pero está limitado por ser un "modo de juego" de warcraft III.
 * League of Legends es uno de los muchos juegos que salieron tipo "Dota".
 * League of Legends Tiene más futuro ya que a futuro se ve más creciemiento.
+
+Enlace a la pagina del juego: [League of Legends](http://www.leagueoflegends.com)
