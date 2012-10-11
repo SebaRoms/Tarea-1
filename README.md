@@ -2,7 +2,7 @@
 
 ##Tema: **Juego League of Legends**
 
-1. **Reseña**: 
+###**Reseña**: 
 Muchos hemos escuchado del modo de juego para warcraft II "Dota", el cual ha aún tiene una muy buena fama entre los gamers, cuando "Dota" se popularizó, fue necesario evolucionar el juego a otra plataforma, ya que el ser un modo de juego de warcraft II no oficial siempre fue un problema. Es por esto que los creadores de Dota al separarse, fueron creando muchos juegos tipo "Dota", uno de los más conocidos y populares es League of Legends (LoL). El juego incluye muchas mejoras con respecto a Dota, pero también deja intactas muchas de las cosas buenas de este.
 
 1. **Jugabilidad**: 
