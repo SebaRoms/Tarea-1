@@ -24,3 +24,5 @@ En resumen, LoL llega a ser una mejora de Dota, pero que tiene una vision difere
 * League of Legends Tiene m·s futuro ya que a futuro se ve m·s creciemiento.
 
 Enlace a la pagina del juego: [League of Legends](http://www.leagueoflegends.com)
+
+modificacion para el pi√±a
